@@ -60,7 +60,9 @@
     <br>
 
 <h2>📫 Contact </h2>
-    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=ludmilasonehara.dev@gmail.com">[<img height= "35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=ludmilasonehara.dev@gmail.com">
+      <img height= "35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
     <br>
     
 <h2>👩🏻‍💻 Social </h2>
