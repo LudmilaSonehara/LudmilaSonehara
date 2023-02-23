@@ -55,7 +55,9 @@
     <br>
  
  <h2>📚 Education </h2>
-    <img height= "35" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+    <a target="_blank" href="https://www.duolingo.com/profile/sonehara__">
+      <img height= "35" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+    </a>
     <img height= "35" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
     <br>
 
@@ -66,12 +68,18 @@
     <br>
     
 <h2>👩🏻‍💻 Social </h2>
-    <img height= "35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    <img height= "35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <img height= "35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img height= "35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <a target="_blank" href="https://www.instagram.com/sonehara__/">
+      <img height= "35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target="_blank" href="https://www.linkedin.com/in/ludmila-sonehara-587b39163/">
+      <img height= "35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     <br>
     
 <h2>🎶 Sound </h2>
-    <img height= "35" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <a target="_blank" href="https://open.spotify.com/user/lusonelu">
+      <img height= "35" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    </a>
     <br>
 </div>
