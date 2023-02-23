@@ -6,6 +6,7 @@
     <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api?username=LudmilaSonehara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaSonehara&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
+  <h2> I’m available for freelancing 🤝</h2> 
 </div>
 <br>
 
@@ -21,12 +22,12 @@
     <img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <br>
     
-  <h3>📊 Database</h3>
+    <h3>📊 Database</h3>
     <img height= "35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <br>
   
-   <h3>💼 Office</h3>
+    <h3>💼 Office</h3>
     <img height= "35" src= "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
@@ -36,14 +37,14 @@
     <img height= "35" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-</div>
-<br>
+    <br>
 
 <h3>🧰 Tools </h3>
     <img height= "35" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
     <img height= "35" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img height= "35" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+    <br>
 
 <h2>🎓 Studying </h2>
     <img height= "35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -71,7 +72,4 @@
 <h2>🎶 Sound </h2>
     <img height= "35" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     <br>
-
-    
-    
-    
+</div>
