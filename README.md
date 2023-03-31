@@ -1,5 +1,4 @@
 ### Hi, nice to see you! 🙋🏻‍♀️
-![capa-readme-github-lud](https://user-images.githubusercontent.com/115107911/220788830-39cef658-20ec-4fa0-a607-7cee9ca7ad6f.jpeg)
 <div align="center">
   <h2> I'm a development student with a focus on Front-end 🖥️✌🏽️</h2>
   <a href="https://github.com/LudmilaSonehara">
