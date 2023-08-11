@@ -1,6 +1,6 @@
 ### Hi, nice to see you! 🙋🏻‍♀️
 <div align="center">
-  <h2> I'm a development student with a focus on Front-end 🖥️✌🏽️</h2>
+  <h2> I'm a development student with a focus on Front-end and UX UI 🖥️✌🏽️</h2>
   <a href="https://github.com/LudmilaSonehara">
     <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api?username=LudmilaSonehara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaSonehara&layout=compact&langs_count=7&theme=tokyonight"/>
