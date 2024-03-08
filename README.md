@@ -74,10 +74,4 @@
       <img height= "35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
     </a>
     <br>
-    
-<h2>🎶 Sound </h2>
-    <a target="_blank" href="https://open.spotify.com/user/lusonelu">
-      <img height= "35" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    </a>
-    <br>
 </div>
