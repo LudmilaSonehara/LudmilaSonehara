@@ -1,11 +1,7 @@
 ### Hi, nice to see you! 🙋🏻‍♀️
 <div align="center">
-  <h2> I'm UX UI Designer 👩🏻‍💻</h2>
-  <h1> Here I keep all my studies and projects focused on programming 💻 </h1>
-  <a href="https://github.com/LudmilaSonehara">
-    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api?username=LudmilaSonehara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="388" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaSonehara&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <h1> I'm UX UI Designer 👩🏻‍💻</h1>
+  <h2> Here I keep all my studies and projects focused on programming 💻 </h2>
   <h2> I’m available for freelancing 🤝</h2> 
 </div>
 <br>
@@ -73,6 +69,9 @@
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/ludmila-sonehara-587b39163/">
       <img height= "35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target="_blank" href="https://medium.com/@soneharadesign">
+      <img height= "35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
     </a>
     <br>
     
